@@ -1,0 +1,1 @@
+# TSで型をdynamic importしてみるサンドボックス
